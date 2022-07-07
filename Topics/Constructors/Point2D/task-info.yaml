@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: // write the Point2D class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6242#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:9:15: error: unresolved reference: x
+        if (point.x != x || point.y != y) {
+                  ^
+    main.kt:9:31: error: unresolved reference: y
+        if (point.x != x || point.y != y) {
+                                  ^
+  time: Wed, 06 Jul 2022 09:02:36 UTC
+record: -1

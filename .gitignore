@@ -1,0 +1,56 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Declaring functions/Vowel or not/out/
+/Topics/Declaring functions/Vowel or not/out/production/classes/
+/Topics/Enum/Currency comparison/out/
+/Topics/Enum/Currency comparison/out/production/classes/
+/Topics/Enum/Days of the week/out/
+/Topics/Enum/Days of the week/out/production/classes/
+/Topics/Enum/Rainbow colors/out/
+/Topics/Enum/Rainbow colors/out/production/classes/
+/Topics/Enum/Theory/build/
+/Topics/Enum/Theory/out/
+/Topics/Enum/Theory/out/production/classes/
+/Topics/If expression/Knights/out/
+/Topics/If expression/Knights/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/If expression/The max of two numbers without else-branch/out/
+/Topics/If expression/The max of two numbers without else-branch/out/production/classes/
+/Topics/If expression/Triangle/out/
+/Topics/If expression/Triangle/out/production/classes/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/
+/Topics/Introduction to Kotlin/Hello, Kotlin/out/production/classes/
+/Topics/Property accessors/City population/out/
+/Topics/Property accessors/City population/out/production/classes/
+/Topics/Property accessors/Implement a class/out/
+/Topics/Property accessors/Implement a class/out/production/classes/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Reading data with a readln/Theory/out/
+/Topics/Reading data with a readln/Theory/out/production/classes/
+/Topics/Repeating blocks/Counting positive numbers/out/
+/Topics/Repeating blocks/Counting positive numbers/out/production/classes/
+/Topics/Standard output/Correct the code/out/
+/Topics/Standard output/Correct the code/out/production/classes/
+/Topics/Standard output/Tic-Tac-Toe/out/
+/Topics/Standard output/Tic-Tac-Toe/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/String templates/Print two numbers on the same line/out/
+/Topics/String templates/Print two numbers on the same line/out/production/classes/
+/Topics/String templates/Theory/out/
+/Topics/String templates/Theory/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
+/Topics/Values and variables/Swap/out/
+/Topics/Values and variables/Swap/out/production/classes/
+/Topics/When expression/String processor/out/
+/Topics/When expression/String processor/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
